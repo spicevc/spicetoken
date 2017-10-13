@@ -1,0 +1,2 @@
+# spicetoken
+The SPiCE Token
